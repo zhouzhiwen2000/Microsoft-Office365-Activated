@@ -15,6 +15,9 @@
 	    <ExcludeApp ID="Teams" />
        
     </Product>
+    <Product ID="VisioProRetail">
+      <Language ID="en-us" />
+    </Product>
   </Add>
   <Display Level="Full" AcceptEULA="TRUE" />
 </Configuration>
