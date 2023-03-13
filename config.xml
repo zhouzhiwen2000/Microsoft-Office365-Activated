@@ -1,7 +1,7 @@
 <Configuration>
   <Add OfficeClientEdition="64">
     <Product ID="O365ProPlusRetail">
-      <Language ID="en-us" />
+      <Language ID="zh-cn" />
         
       <ExcludeApp ID="Access" />
       <ExcludeApp ID="InfoPath" />
@@ -10,10 +10,9 @@
       <ExcludeApp ID="Project" />
       <ExcludeApp ID="SharePointDesigner" />
       <ExcludeApp ID="OneDrive" />
-      <ExcludeApp ID="Visio" />
       <ExcludeApp ID="Skype" />
       <ExcludeApp ID="Skypeforbusiness" />
-	<ExcludeApp ID="Teams" />
+	    <ExcludeApp ID="Teams" />
        
     </Product>
   </Add>
